@@ -1,5 +1,5 @@
 .page-header {
-    background-color: #C25100;
+    background-color: rgb(0, 3, 194);
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -15,7 +15,7 @@
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: "Times New Roman", Times, serif;
 }
 
 .date {
@@ -39,6 +39,8 @@ h1, h2, h3, h4 {
 
 .post {
     margin-bottom: 70px;
+    hyphens: auto; 
+    text-align: justify
 }
 
 .post h2 a, .post h2 a:visited {
