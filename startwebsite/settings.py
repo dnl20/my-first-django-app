@@ -25,7 +25,7 @@ SECRET_KEY = '&p)g13du$1w9h-l=ppk5m_uww7y7iv(#pds05_rq9gu*pfl)cr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django.oldenburgpro.de']
 
 
 # Application definition
